@@ -12,4 +12,4 @@ def print_old_inf():
 print_base_info()
 print_old_inf()
 
-print("---hello---")
+print("---hello---!!")
