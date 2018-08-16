@@ -11,3 +11,5 @@ def print_old_inf():
 	print("the second name is %s age %d"%(get_name,get_age))
 print_base_info()
 print_old_inf()
+
+print("---hello---")
